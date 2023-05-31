@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="left">
+  <a href="https://github.com/masa-tichita/masa-tichita/">
+    <img src="https://komarev.com/ghpvc/?username=masa-tichita" alt="masa-tichita" />
+  </a>
+  <a href="http://twitter.com/@MasaharuMori1">
+    <img height="20" src="https://img.shields.io/twitter/follow/masa-tichita?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/masa-tichita">
+    <img height="20" src="https://img.shields.io/github/followers/masa-tichita?label=follow&logo=github&style=flat" />
+  </a>
+</p>

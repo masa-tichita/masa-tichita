@@ -1,42 +1,42 @@
 ### Hi there 👋
-<p align="left">
+
+<!-- 上部のアイコン（GitHubページビュー、Twitter、GitHubフォロー） -->
+<p align="center">
   <a href="https://github.com/masa-tichita/masa-tichita/">
     <img src="https://komarev.com/ghpvc/?username=masa-tichita" alt="masa-tichita" />
   </a>
   <a href="http://twitter.com/@MasaharuMori1">
-    <img height="20" src="https://img.shields.io/twitter/follow/masa-tichita?label=Twitter&logo=twitter&style=flat" />
+    <img src="https://img.shields.io/twitter/follow/masa-tichita?label=Twitter&logo=twitter&style=flat" alt="Twitter" height="20" />
   </a>
   <a href="https://github.com/masa-tichita">
-    <img height="20" src="https://img.shields.io/github/followers/masa-tichita?label=follow&logo=github&style=flat" />
+    <img src="https://img.shields.io/github/followers/masa-tichita?label=follow&logo=github&style=flat" alt="GitHub Follow" height="20" />
   </a>
 </p>
-<p align="left">
+
+<!-- スキルアイコン -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,go,ts,js,html,css,react,docker,aws,postgres,nextjs,supabase" alt="My Skills" />
+  </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=python,fastapi,go,ts,js,html,css,react,docker,aws,postgres)](https://skillicons.dev)
+<br />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=masa-tichita)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Stats（２つの画像を横並びに配置） -->
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=masa-tichita&count_private=true&show_icons=true" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masa-tichita&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9" alt="Top Languages" />
+</a>
+</p>
 
+<br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masa-tichita&hide=jupyter%20notebook,shaderlab,tex,c%23&langs_count=9" />
-
-
-<!--
-**masa-tichita/masa-tichita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=masa-tichita)](https://github.com/masa-tichita/github-profile-trophy)
-
-
-
-
+<!-- Trophy -->
+<p align="center">
+  <a href="https://github.com/masa-tichita/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=masa-tichita" alt="Trophy" />
+  </a>
+</p>

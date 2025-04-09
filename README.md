@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=masa-tichita)](https://github.com/masa-tichita/github-profile-trophy)
 
 
 
